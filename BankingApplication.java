@@ -1,3 +1,5 @@
+// Program for a Basic Banking Application.
+
 import java.util.Scanner;
 
 public class BankingApplication {
